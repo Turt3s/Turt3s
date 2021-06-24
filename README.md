@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Turt3s.
-- 👀 I’m interested in programming.
-- 🌱 I’m currently learning python.
+- 👀 I’m interested in robotics.
+- 🌱 I’m currently learning Vim.
 - 💞️ I’m looking to collaborate when I'm good.
 - 📫 No contacts until I can be decent.
 
